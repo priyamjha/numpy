@@ -2,3 +2,7 @@ env
 .env
 env\
 env/
+
+.gitignore
+.gitignore/
+.gitignore\
